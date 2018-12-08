@@ -98,6 +98,8 @@ const embed = new Discord.RichEmbed()
 
 ** !role ~ ل اعطاء احد رتبه**
 
+تاريخ انتهاء صلاحية البوت : 8/12/2018
+Copyright © GMZN Host
 `)
  message.author.sendEmbed(embed)
  
