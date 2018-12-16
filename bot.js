@@ -98,7 +98,7 @@ const embed = new Discord.RichEmbed()
 
 ** !role ~ ل اعطاء احد رتبه**
 
-تاريخ انتهاء صلاحية البوت : 8/12/2018
+تاريخ انتهاء صلاحية البوت : 16/1/2019
 Copyright © GMZN Host
 `)
  message.author.sendEmbed(embed)
